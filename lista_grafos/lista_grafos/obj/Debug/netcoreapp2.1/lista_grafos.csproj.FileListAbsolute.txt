@@ -1,0 +1,11 @@
+C:\Users\junior.DESKTOP-LE3H6DC\source\repos\lista_grafos\lista_grafos\bin\Debug\netcoreapp2.1\lista_grafos.deps.json
+C:\Users\junior.DESKTOP-LE3H6DC\source\repos\lista_grafos\lista_grafos\bin\Debug\netcoreapp2.1\lista_grafos.runtimeconfig.json
+C:\Users\junior.DESKTOP-LE3H6DC\source\repos\lista_grafos\lista_grafos\bin\Debug\netcoreapp2.1\lista_grafos.runtimeconfig.dev.json
+C:\Users\junior.DESKTOP-LE3H6DC\source\repos\lista_grafos\lista_grafos\bin\Debug\netcoreapp2.1\lista_grafos.dll
+C:\Users\junior.DESKTOP-LE3H6DC\source\repos\lista_grafos\lista_grafos\bin\Debug\netcoreapp2.1\lista_grafos.pdb
+C:\Users\junior.DESKTOP-LE3H6DC\source\repos\lista_grafos\lista_grafos\obj\Debug\netcoreapp2.1\lista_grafos.csprojAssemblyReference.cache
+C:\Users\junior.DESKTOP-LE3H6DC\source\repos\lista_grafos\lista_grafos\obj\Debug\netcoreapp2.1\lista_grafos.csproj.CoreCompileInputs.cache
+C:\Users\junior.DESKTOP-LE3H6DC\source\repos\lista_grafos\lista_grafos\obj\Debug\netcoreapp2.1\lista_grafos.AssemblyInfoInputs.cache
+C:\Users\junior.DESKTOP-LE3H6DC\source\repos\lista_grafos\lista_grafos\obj\Debug\netcoreapp2.1\lista_grafos.AssemblyInfo.cs
+C:\Users\junior.DESKTOP-LE3H6DC\source\repos\lista_grafos\lista_grafos\obj\Debug\netcoreapp2.1\lista_grafos.dll
+C:\Users\junior.DESKTOP-LE3H6DC\source\repos\lista_grafos\lista_grafos\obj\Debug\netcoreapp2.1\lista_grafos.pdb
